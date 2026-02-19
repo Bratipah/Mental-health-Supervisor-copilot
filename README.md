@@ -221,17 +221,10 @@ For 10M youth coverage:
 - **Background queue** — in production, use BullMQ or AWS SQS for batch jobs
 - **AI cost optimization** — cache analysis results for 24 hours; avoid re-analysis unless transcript changes
 
----
-
-## Demo Credentials
-
-```
-Email: supervisor@copilot.demo
-Password: demo123
-```
-
 The seeded data includes:
 - Session 3 (Efua Asante, GRP-003-TAKORADI) — contains **suicidal ideation disclosure**, will be flagged as RISK
 - Mix of SAFE, Processed, Pending, and Flagged sessions
 - Realistic 40-60 minute transcripts covering Growth Mindset, Emotional Regulation, Resilience, Healthy Relationships, Self-Compassion
+
+---
 # Mental-health-Supervisor-copilot
