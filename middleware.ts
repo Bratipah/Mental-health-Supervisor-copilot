@@ -6,6 +6,7 @@ export function middleware(request: NextRequest) {
   // Public routes
   if (
     pathname.startsWith('/login') ||
+    pathname.startsWith('/signup') ||
     pathname.startsWith('/api/auth') ||
     pathname === '/'
   ) {

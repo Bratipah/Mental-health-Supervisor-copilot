@@ -6,7 +6,7 @@ const _geist = Geist({ subsets: ['latin'] })
 const _geistMono = Geist_Mono({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Supervisor Copilot | Ghana Youth Mental Health Initiative',
+  title: 'Supervisor Copilot | Youth Mental Health Initiative',
   description: 'AI-powered session quality assurance for Tier 2 Supervisors',
 }
 
